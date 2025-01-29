@@ -28,7 +28,7 @@ Follow the steps below to set up and run the project:
 
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Joserem/CLIMATE-INFORMATION-SYSTEM-WITH-WeatherAPI.git
    
 2. Navigate to the project folder:
    ```sh
