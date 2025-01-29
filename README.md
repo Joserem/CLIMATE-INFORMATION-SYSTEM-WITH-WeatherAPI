@@ -19,7 +19,7 @@ Follow the steps below to set up and run the project:
 
 ### Prerequisites  
 
-- Java Development Kit (JDK) 17 or later.  
+- Java Development Kit (JDK) 11 or above.
 - Apache Maven installed.  
 - Internet connection for API requests.  
 - A valid API key from [WeatherAPI](https://www.weatherapi.com/).  
