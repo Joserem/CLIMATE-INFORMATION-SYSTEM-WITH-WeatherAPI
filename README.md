@@ -73,7 +73,7 @@ Pressão Atmosferica: 1011.0 mb
 
 ---
 
-📌 *Feel free to contribute, suggest improvements, or report issues!* 🚀 
+📌 *Feel free to contribute, suggest improvements, or report issues!*  
 
 
 
